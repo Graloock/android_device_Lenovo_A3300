@@ -11,7 +11,7 @@ $(call inherit-product, device/Lenovo/A3300/device_A3300.mk)
 PRODUCT_LOCALES := ru_RU en_US uk_UA
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := a3300
+PRODUCT_DEVICE := A3300
 PRODUCT_NAME := lineage_A3300
 PRODUCT_BRAND := Lenovo
 PRODUCT_MODEL := Lenovo IdeaTab A3300-HV
